@@ -1,0 +1,32 @@
+body{
+	font-size: 100%;
+}
+h2{
+	margin: 0;
+}
+.container{
+	margin: 20px 15%;
+	border: 1px solid black;
+}
+.search-panel{
+	margin: 20px 10px;
+}
+#feed{
+	min-height: 300px;
+	padding: 20px;
+}
+.search-title{
+	font-size: 1.2em;
+	font-weight: bold;
+}
+.search-content{
+	font-size: 1em;
+}
+.search table{
+	margin-top: 15px;
+}
+.search td{
+	padding-bottom: 40px;
+    line-height: 1.4em;
+    padding-left: 15px;
+}
